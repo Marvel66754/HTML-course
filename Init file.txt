@@ -1,0 +1,23 @@
+To co masz w tym folderze to jest repozytorium
+. Znaczy to ¿e to co jest tutaj mo¿esz wrzuciæ
+do internetu by ludzie widzieli
+i ja bym móg³ sprawdzac czy dobrze.
+
+Jest to w tym miejscu To odzwierciedla wszystko co
+masz u siebie.
+
+Po zakonczonej pracy codziennie odpalasz
+gita czyli te cztery kwadraciki 
+i wpisujesz pokolei takie komendy
+
+git add .
+
+git commit -m "Twoja nazwa co robilas"
+
+
+git push
+
+
+Chcialbym by nazwa w miare odzwierciedlala to co 
+robisz w danym czasie.
+Pokaze Ci jak to dziala.
